@@ -258,7 +258,7 @@
 		],
 		"name": "list",
 		"outputs": [],
-		"stateMutability": "nonpayable",
+		"stateMutability": "payable",
 		"type": "function"
 	},
 	{
